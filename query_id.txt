@@ -1,0 +1,1 @@
+query_id=AAFZEnNhAgAAAFkSc2FdAuLe&user=%7B%22id%22%3A5929898585%2C%22first_name%22%3A%22abdo%22%2C%22last_name%22%3A%22ayman%22%2C%22username%22%3A%22AbdoAyman12%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725863566&hash=2d9b0b048ac4cb7d833756e6bfb5945b06b4cfae829c3ab75be9a0771644130e
